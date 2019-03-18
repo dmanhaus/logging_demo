@@ -1,0 +1,1 @@
+Copied from [Logging in Python with sub-modules and configuration files](https://www.internalpointers.com/post/logging-python-sub-modules-and-configuration-files)
